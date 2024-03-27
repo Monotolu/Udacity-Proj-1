@@ -7,8 +7,11 @@ Motivation of project Following the CRISP_DM methodology I used the Netflix data
 The questions that will be focused on are :
 
 1.what is the most content watched on Netflix and why 
+
 2.In which year were the highest 'type' released and opinion after finding
+
 3.Country producing the most content watched?
+
 The link to my notebook is also attached in the repository 
 
 The following libraries were used:
