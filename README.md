@@ -15,14 +15,21 @@ The questions that will be focused on are :
 The link to my notebook is also attached in the repository 
 
 The following libraries were used:
+
 •	Numpy
+
 •	Pandas
+
 •	Matplotlib
+
 •	Seaborn
 
 Summary of the results
 
 •	Numbers suggest that Movies are most watched  content than TV Series
+
 •	Most TV series watched are for Mature Audience
+
 •	TV Series has a significant portion of the shows that have not progressed beyond their initialfirst season. This might influnce the audience to watch more standalone content
+
 United States are the most creators of the content watched for Movies and forTV Series and Korea and Japan are producing TV Series more that movies
