@@ -28,6 +28,10 @@ Summary of the results
 
 •	Numbers suggest that Movies are most watched  content than TV Series
 
+I have written a block on Medium.for more info pls find the below link 
+
+https://medium.com/@bokang2009
+
 •	Most TV series watched are for Mature Audience
 
 •	TV Series has a significant portion of the shows that have not progressed beyond their initialfirst season. This might influnce the audience to watch more standalone content
